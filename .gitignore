@@ -19,3 +19,19 @@ Thumbs.db
 .idea/
 .vscode/
 20-torch/data/
+
+# 数据集
+**/data/
+*.tar.gz
+*.gz
+*.ubyte
+
+# Windows 遗留文件
+*:Zone.Identifier
+Desktop.ini
+Thumbs.db
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
