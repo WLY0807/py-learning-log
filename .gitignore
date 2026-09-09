@@ -32,3 +32,6 @@ Thumbs.db
 # Windows 遗留文件
 *:Zone.Identifier
 Desktop.ini
+# 模型权重目录 / TensorBoard 日志（训练产物不入库）
+**/models/
+**/runs/
